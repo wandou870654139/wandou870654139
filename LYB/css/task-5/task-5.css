@@ -1,13 +1,36 @@
-
-body{
+body {
+}
+.box {
     background-color: #5fc0cd;
+    height: 50px;
+    display: flex;
+    color: #ffffff;
+    align-items: center;
+
 }
-. box{
-    color: #68cdd5;
+.box1 {
+    font-size: 35px;
+    align-items: center;
+
 }
-.box1{
-    color: #68cdd5;
+.box2{
+    font-size: 15px;
+}
+.tu {
+    background: url("IMG/c.png");
+    background-size: 100% 100%;
+    height: 160px;
+
+}
+.tu1{
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.wen{ float: right;
+}
+.hezi{
+
+    float: left;
+
 }
 
-.box2 {
-}
