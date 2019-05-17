@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.box{
+    background-color: #5fc0cd;
+    width: 100rem;
+    height: 80em;
+}
+.box1{
+    width: 30px;
+    height: 30px;
+}
+.two{
+    width: 30px;
+    height: 30px;
+}
+.three{
+    width: 30px;
+    height: 30px;
+}
