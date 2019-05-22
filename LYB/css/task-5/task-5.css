@@ -9,8 +9,7 @@ body{
     justify-content: space-between;
     position: fixed;
     width: 100%;
-    top: 0;
-}
+    top: 0;}
 .tu0{margin: 0px -25px 0px 7px;}
 
 .box1{position:fixed;
@@ -21,29 +20,22 @@ body{
     margin-top: -100px;
     font-size: 15px;
     color: #ffffff;}
-.box3{
-    display: flex;
+.box3{display: flex;
     margin-left: 197px;
     margin-top: -21px;
     color: #ffffff;}
-.box4{
-    display: -webkit-box;
+.box4{display: -webkit-box;
     margin-left: 121px;}
-.tu{
-    background: url("IMG/c.png");
+.tu{background: url("IMG/c.png");
     background-size: 100% 100%;
     height: 160px;
     margin-top: 50px;}
-.tu1{
-    margin-top: 45px;
+.tu1{margin-top: 45px;
     margin-left: 20px;}
-.tu2{
-    margin: 9px 5px 0px 0px;}
-.lin1{
-    color: #ffffff;
+.tu2{margin: 9px 5px 0px 0px;}
+.lin1{color: #ffffff;
     font-size: 15px;
     margin-top: 5px;}
-
 .box5{display: -webkit-box;
     margin-top: 70px;
     height:42px;
@@ -64,7 +56,6 @@ body{
     display: flex;
     height: 40px;
     border-bottom: 1px solid #e1e5e7;}
-
 .cong1{color: #e1e5e7;}
 .cong2{margin-left: 20px;
     border-left: 1px solid #e1e5e7;
@@ -104,7 +95,7 @@ min-width: 83px;
   height: 24px;}
 .zi2{margin-left: 20px;
     margin-bottom: 17px;}
-.liu{
+.liu {background-color:#ffff;
     display: flex;
     justify-content: space-around;
     position: fixed;
@@ -123,6 +114,6 @@ min-width: 83px;
     border-radius: 8px;
     width: 38%;
     text-align: center;
-    line-height: 55px;
-}
+    line-height: 55px;}
+main{margin-bottom: 88px;}
 
