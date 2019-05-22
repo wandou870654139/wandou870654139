@@ -90,6 +90,7 @@ body{
 .zi{margin-top: 17px;
     margin-left: 30px;
     display: flex;
+    align-items: center;
     border-bottom: 1px solid #e1e5e7;}
 .zi1{color: #e1e5e7;
 min-width: 83px;
@@ -104,7 +105,7 @@ min-width: 83px;
 .liu1{border: solid;
     border-radius: 8px;
     color: #5fc0cd;
-    width: 210px;
+    width: 45%;
     height: 55px;
     text-align: center;
     line-height: 55px;
@@ -113,7 +114,7 @@ min-width: 83px;
 .liu2{color: #e1e5e7;
     background-color: #5fc0cd;
     border-radius: 8px;
-    width: 214px;
+    width: 45%;
     height: 59px;
     text-align: center;
     line-height: 55px;
