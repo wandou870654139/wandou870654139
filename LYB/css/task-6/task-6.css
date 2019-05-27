@@ -1,20 +1,154 @@
-body {margin: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.428571429;
-    color: #333333;
-    background-color: #ffffff;
+body{
+    margin: 0;
 }
-.container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+
+.box{
+    background-color: #5fc0cd;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.zha{
-    font-size: 44px;
+.employer{
+    height: 60px;
+    background: #55a8b3;
+    width: 25%;
+    text-align: center;
+    align-self: flex-end;
+    margin-bottom: 5px;
+        border-radius: 6px;
+    line-height:60px;
+    color: #ffff;
+    font-size:28px;
+    float: right;
+    margin-top: 26px;
+}
+.nursing{
+    height: 60px;
+    background: #fff;
+    width: 25%;
+    text-align: center;
+    align-self: flex-end;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    line-height:60px;
+    color: #5fc0cd;
+    font-size:28px;
+    float: right;
+    margin-top: 26px;
+}
+.picture{
+    float: right;
+    margin-top: 33px;
+}
+.two{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #e1e5e7;
+}
+.two10{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    font-size:28px;
+    margin: 0;
+    padding: 0;
+}
+.two11{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    text-align-last: center;
+    color: #999999;
 
+}
+two12{
+    font-size:28px;
+}
+.two20 {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    font-size:28px;
+    margin: 0;
+    padding: 0;
+}
+.two21{display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    text-align-last: center;
+    color: #999999;
 
+}
+.two22{
+    font-size:28px;
+    text-align: center;
+}
+.two30{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+.two31{display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    text-align-last: center;
+    color: #999999;
 
-
+}
+.two32{font-size:28px;
+}
+.rim{
+    border-bottom: 1px solid #e1e5e7;
+}
+.first {
+    height: 170px;
+    line-height: 55px;
+    text-align: left;
+}
+.second{
+    font-size:30px;
+    display: flex;
+    align-items: center;
+}
+.serve{
+    margin-left: 15px;
+    color: #999999;
+}
+.thirdly{
+    font-size:30px;
+    margin-left: 35px;
+}
+.fifth{
+    font-size:30px;
+    display: flex;
+    align-items: center;
+}.beijing{
+     margin-left: 15px;
+     color: #999999;
+ }
+.time{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: red;
+}
+.time1{
+    font-size:30px;
+    margin-right: 20px;
+}
+.tail{
+    height: 100px;
+    background-color: #f8fafb;
 }
