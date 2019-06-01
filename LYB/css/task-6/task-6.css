@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 0;
 }
 .maximum{
     background-color: #5fc0cd;
@@ -150,11 +151,7 @@ margin-bottom: 100px;
     border-bottom: 1px solid #e1e5e7;
 }
 .monday{
-    font-size:17px;
-    margin-right: 20px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+
 }
 .tail{
     height: 100px;
