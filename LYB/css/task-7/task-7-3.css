@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 0;
 }
 .top{
     width: 100%;
@@ -11,7 +12,6 @@ body{
     font-size: 3vw;
     color: aliceblue;
     border-bottom:1px solid #f0f0f0;
-
 }
 .house{
     height: 4vw;
@@ -44,7 +44,6 @@ color: #ffffff;
     width: 75%;
     margin: auto;
     color: #ffc865;
-
 }
 .bang{
     font-size: 4vw;
@@ -123,3 +122,4 @@ color: #ffffff;
     justify-content: center;
     border-radius: 5px;
 }
+a{ text-decoration:none}
