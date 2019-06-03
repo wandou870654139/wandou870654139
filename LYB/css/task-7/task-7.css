@@ -19,13 +19,12 @@ body{
     margin-left: 23px;
 }
 .book{
-    width: 4vw;
-    height: 4vw;
-
+    width: 12px;
+    height: 14px;
 }
 .fork{
-    width: 4vw;
-    height: 4vw;
+    width: 14px;
+    height: 14px;
 
 }
 .piao{
@@ -87,9 +86,9 @@ audio{
 .monday{
     text-align: center;
     background-color: #f5c97b;
-    width: 18vw;
     height: 18vw;
     Border: 6px solid #ffffff;
+    margin-top: 3vw;
     position:relative;
 }
 .first{
@@ -101,12 +100,17 @@ audio{
     font-size: 3vw;
 }
 .middle{
-    height: 122px;
+    height: 95px;
 }
+.sit{
+    width: 23vw;
+    height: 6vw;
+    margin-top: 3vw;
+    opacity:0.0
+ }
 .second{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 8vw;
 }
 .civilian{
     margin-top: 4vw;
@@ -133,4 +137,10 @@ audio{
     width: 100%;
     background: #29bde0;
     height: 45px;
+}
+.empty{
+    height: 45px;
+}
+.lead:hover .sit{
+    opacity:1;
 }
