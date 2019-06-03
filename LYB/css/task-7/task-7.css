@@ -10,7 +10,7 @@ body{
     z-index: 1;
 }
 .tou{
-    height: 125px;
+    height: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -18,18 +18,28 @@ body{
     margin-right: 23px;
     margin-left: 23px;
 }
+.book{
+    width: 4vw;
+    height: 4vw;
+
+}
+.fork{
+    width: 4vw;
+    height: 4vw;
+
+}
 .piao{
     display: flex;
-    font-size: 33px;
+    font-size: 18px;
     justify-content: center;
 }
 .fa{
     background-color: rgba(255,255,255,0.6);
-    height: 84px;
+    height: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 22px;
+    font-size: 13px;
     color: #999999;
     white-space: nowrap;
     overflow: hidden;
@@ -37,6 +47,10 @@ body{
 }
 .yan{
     margin-left: 50px;
+}
+.music{
+    height: 30px;
+    width: 30px;
 }
 .frequency{
     width: 100px;
@@ -46,17 +60,15 @@ body{
 }
 .start{
     opacity:0.0;
-    transform: rotate(180deg);
+    transform: rotate(90deg);
 }
 audio{
-    width: 130px;
-    margin-left: 14px;
-    margin-bottom: -16px;
-    margin-right: -130px;
+    width: 110px;
+    margin: 58px -111px 22px 0px;
 }
 .yellow{
-    margin-left: 33px;
-    margin-top: 51px;
+    margin-left: 53px;
+    margin-top: 77px;
 }
 .triangle{
     width: 0;
@@ -67,11 +79,10 @@ audio{
     margin-left: 63px;
 }
 .dian{
-    margin-top: 5px;
-    margin-bottom: 40px;
     margin-left: 67px;
-    font-size: 20px;
+    font-size: 12px;
     color: #ffffff;
+    margin-bottom: 20px;
 }
 .monday{
     text-align: center;
@@ -89,7 +100,8 @@ audio{
     color: #ffffff;
     font-size: 3vw;
 }
-.middle{height: 300px;
+.middle{
+    height: 122px;
 }
 .second{
     display: flex;
@@ -102,21 +114,23 @@ audio{
 }
 .bottom{
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     background-color: #fbb435;
     width: 65%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 15px;
+    margin-top: 6px;
     margin-bottom: 15px;
 
 }
 .cast{
     color: #ffffff;
+    text-decoration:none;
 }
 .outer{
     position: fixed;
     bottom: 0;
     width: 100%;
     background: #29bde0;
+    height: 45px;
 }
