@@ -90,7 +90,7 @@
     margin-right: 2vw;
     margin-left: 3vw;
 }
-.circle{
+.monday{
    height: 3vw;
     width: 3vw;
     background-color: #f0f0f0;
@@ -102,9 +102,7 @@
     width: 17vw;
     margin: auto;
     justify-content: space-between;
-}.red{
-     height: 3vw;
-     width: 3vw;
-     background-color: #69d1e9;
-     border-radius: 50%
  }
+.monday:hover{
+    background-color: #69d1e9;
+}
